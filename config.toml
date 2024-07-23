@@ -15,7 +15,7 @@ pygmentsCodeFences=true
 
 [params.main]
   latestPublishHeader = "Latest Portfolio:"
-  latestPublishCount = 10
+  latestPublishCount = 20
 
 [taxonomies]
   design = "designs"
